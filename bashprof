@@ -1,0 +1,10 @@
+export POLYSCANCMD="/home/bcviss/bin/polyscan"
+export TTUNERCMD="/home/bcviss/pipelinePrograms/tracetuner_3.0.6beta/rel/Linux_64/ttuner"
+export MSACMD=muscle
+export PATH="$PATH:/home/bcviss/bin/"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/home/bcviss/lib/"
+export LIBRARY_PATH="$LIBRARY_PATH:/home/bcviss/lib/"
+export CPATH="$CPATH:/home/bcviss/include/"
+export PERL5LIB="$PERL5LIB:/home/bcviss/pipelinePrograms/ABI-1.0/blib/lib:/home/bcviss/BCV/bcvrun-0.2.3/lib:/home/bcviss/localPerl/share/perl/5.14:/home/bcviss/localPerl/share/perl/5.14.2"
+export BCV_HOME="/home/bcviss/BCV/examples/bcvhome"
+export BCVCMD="/home/bcviss/BCV/bcv-basecaller-0.2.2/bcvproc/bcvproc"
